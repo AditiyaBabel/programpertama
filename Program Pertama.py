@@ -1,0 +1,6 @@
+print ('Ini Program pertama Saya')
+print ('Nama Saya Aditiya Dan Saya Jomblo')
+print ('Alamat Saya Desa Serdang')
+print ('Hobi Saya Makan')
+print ('Saya Berasal dari sekolah SMAN 1 AIRGEGAS')
+print ('Saya Lahir pada tanggal 10 Februari 2005')
